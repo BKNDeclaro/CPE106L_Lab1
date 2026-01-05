@@ -1,1 +1,1 @@
-print("Hello Software Design Laboratory!")
+print("Hello, Software Design Laboratory!")
